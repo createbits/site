@@ -1,0 +1,13 @@
+name: createbits
+version: 1.1.0
+description: "Createbits website"
+icon: group
+author:
+  name: Team Grav
+  email: devs@getgrav.org
+  url: http://getgrav.org
+homepage: https://github.com/getgrav/grav-skeleton-saturn-site
+demo: http://demo.getgrav.org/saturn-skeleton
+keywords: createbits, blog, creative tools, html5, css3, blog
+bugs: https://github.com/getgrav/grav-skeleton-saturn-site/issues
+license: MIT

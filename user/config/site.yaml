@@ -1,0 +1,26 @@
+title: createbits
+intro: Your space for creative endeauvor.
+
+# Avatar must be uploaded to theme "img" folder.
+intro_avatar: createbits_logo.jpg
+author:
+  name: Matteo De Micheli
+  email: 'contact@createbits.space'
+  footer: handcrafted by @matteodem
+  url: http://afnizar.com
+  url2: http://getgrav.org
+metadata:
+    description: 'Saturn is free GRAV theme by @flamekaizar, ported by Team Grav.'
+
+# Main Menu
+menu:
+  - text: Videos
+    link: "https://vid.me/createbits"
+
+social:
+  - icon: send
+    link: "mailto:contact@createbits.space"
+  - icon: twitter
+    link: "https://twitter.com/createbits"
+  - icon: youtube
+    link: "https://www.youtube.com/channel/UCzgLUUHaP643QwjNoTPIT2A"
