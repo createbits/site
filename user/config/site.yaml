@@ -1,16 +1,15 @@
 title: createbits
-intro: Your space for creative endeauvor.
+intro: Your space for creative endeavour.
 
 # Avatar must be uploaded to theme "img" folder.
 intro_avatar: createbits_logo.jpg
 author:
   name: Matteo De Micheli
   email: 'contact@createbits.space'
-  footer: handcrafted by @matteodem
-  url: http://afnizar.com
-  url2: http://getgrav.org
+  footer: made by @matteodem
+  url: https://matteodem.com
 metadata:
-    description: 'Saturn is free GRAV theme by @flamekaizar, ported by Team Grav.'
+    description: 'Your space for creative endeavour.'
 
 # Main Menu
 menu:
