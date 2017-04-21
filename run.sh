@@ -1,1 +1,2 @@
-php -S localhost:8000 system/router.php
+docker build -t createbits/grav .
+docker run -p 8080:80 createbits/grav

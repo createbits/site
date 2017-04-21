@@ -1,7 +1,11 @@
+!tmp/.gitkeep
 tmp
+!cache/.gitkeep
 cache
+!logs/.gitkeep
 logs
 vendor
 .idea
+!images/.gitkeep
 images
 user/accounts/*.yaml
