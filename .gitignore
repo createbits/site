@@ -3,3 +3,5 @@ cache
 logs
 vendor
 .idea
+images
+user/accounts/*.yaml
