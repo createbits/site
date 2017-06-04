@@ -2,7 +2,7 @@
 title: Downloads
 ---
 
-Here are the freely available downloads to the videso that I make.
+Here are the freely available downloads to the videos that I make.
 
 **Creating a simple kickdrum**
 
